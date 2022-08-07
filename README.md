@@ -56,3 +56,6 @@ Low Risk has a precision rate of **100%** with a recall of **91%** and F1 score 
 
 * Per the image above the the balanced accuracy score is **93%**. The High Risk precision rate is **7%** with a recall of **91%** and F1 score of **14%**.
 Low Risk has a precision rate of **100%** with a recall of **94%** and F1 score of **97%**
+
+## Credit Risk Analysis Summary
+Based on our results, the recommended model to use is the Easy Ensemble AdaBoost Classifier model. This is model is recommended due to its **93%** balanced accuracy score and **7%** predictability rate of High Risk loans. 
