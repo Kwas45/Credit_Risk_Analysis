@@ -9,7 +9,9 @@ __This project consists of three technical analysis:__
 
 > Use Ensemble Classifiers to Predict Credit Risk.
 
+## Resource
 
+[2019 Q1 Loan Stats](https://github.com/Kwas45/Credit_Risk_Analysis/blob/main/Resources/LoanStats_2019Q1.csv)
 
 
 ##  Credit Risk Analysis Results
