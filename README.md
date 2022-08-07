@@ -41,3 +41,18 @@ Low Risk has a precision rate of **100%** with a recall of **40%** and F1 score 
 
 * Per the image above the the balanced accuracy score is **64%**. The High Risk precision rate is **1%** with a recall of **72%** and F1 score of **2%**.
 Low Risk has a precision rate of **100%** with a recall of **57%** and F1 score of **72%**
+
+#### 5. Balanced Random Forest Classifier
+
+![image](https://user-images.githubusercontent.com/102786356/183279884-1bdafe74-e363-4621-af46-750593df7f23.png)
+
+* Per the image above the the balanced accuracy score is **91%**. The High Risk precision rate is **4%** with a recall of **67%** and F1 score of **7%**.
+Low Risk has a precision rate of **100%** with a recall of **91%** and F1 score of **95%**
+
+
+#### 6. Easy Ensemble AdaBoost Classifier
+
+![image](https://user-images.githubusercontent.com/102786356/183279995-84b21baa-4473-403b-b564-c4d3090ad3bd.png)
+
+* Per the image above the the balanced accuracy score is **93%**. The High Risk precision rate is **7%** with a recall of **91%** and F1 score of **14%**.
+Low Risk has a precision rate of **100%** with a recall of **94%** and F1 score of **97%**
